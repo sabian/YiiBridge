@@ -1,0 +1,8 @@
+{
+    "name": "sabian/yiibridge",
+    "description": "YiiBridge plugin for Codeception",
+    "minimum-stability": "alpha",
+    "require": {
+        "yiisoft/yii": "dev-master"
+    }
+}
